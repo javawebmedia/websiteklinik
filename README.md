@@ -1,5 +1,5 @@
-# Website Company Profile dengan CodeIgniter - Support untuk Sekolah Beladiri
-Ini adalah kode website company profile yang sudah mendukung fitur untuk sekolah bela diri. Anda dapat mengaktifkan dan menon aktifkan fitur sekolah bela diri.
+# Website Company Profile dengan CodeIgniter - Support untuk Klinik
+Ini adalah kode website company profile yang sudah mendukung fitur untuk Klinik. 
 
 
 # CodeIgniter 4 Development
